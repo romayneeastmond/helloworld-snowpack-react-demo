@@ -1,6 +1,6 @@
 # Snowpack and React Hello World
 
-A React project that builds using snowpack.
+A React project that builds using Snowpack.
 
 ## How to Use
 
@@ -14,7 +14,7 @@ Start the React app by using
 npm start
 ```
 
-Then navigate to default snowpack url http://localhost:8080/
+Then navigate to default Snowpack url http://localhost:8080/
 
 ## Copyright and Ownership
 
